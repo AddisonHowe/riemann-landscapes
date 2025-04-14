@@ -4,7 +4,7 @@
 
 import pytest
 
-from myproject.core import foo
+from rlandscapes.core import foo
 
 ###################
 ##  Begin Tests  ##
