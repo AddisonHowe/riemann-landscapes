@@ -7,9 +7,10 @@ name = "rlandscapes"
 dynamic = ["version"]
 requires-python = ">= 3.8"
 readme = "README.md"
-description = "Python project template."
+description = "Exploring gradient dynamics."
 authors = [
   {name = "Addison Howe"},
+  {name = "Achilleas Mittaris"},
 ]
 dependencies = [
   "numpy>=2.2",
